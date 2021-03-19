@@ -1,2 +1,3 @@
-# Nyx-public
-Nyx is a high frequency, autonomous trading bot powered by a neural-network
+## Nyx
+
+* I appreciate your interest in this project, but I hope you can understand why it is not open source.
